@@ -1,0 +1,24 @@
+{
+  "name": "collab-music-system",
+  "version": "1.0.0",
+  "description": "Users can create collaborative playlists with live updates.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giowassheree/Collab-Music-System.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/giowassheree/Collab-Music-System/issues"
+  },
+  "homepage": "https://github.com/giowassheree/Collab-Music-System#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
